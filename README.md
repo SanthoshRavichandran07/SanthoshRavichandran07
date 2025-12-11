@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Santhosh Ravichandran (@SanthoshRavichandran07)
-- 👀 I’m interested in Webdevelopment, Networking
-- 🌱 I’m currently learning Cisco's Networking Basics, Java Programming 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Backend, Full Stack Development
+- 🌱 I’m currently learning Java Full Stack Development 
 - 📫 How to reach me santhoshravi7503@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 SanthoshRavichandran07/SanthoshRavichandran07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
